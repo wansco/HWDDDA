@@ -1,0 +1,6 @@
+name: hwddda-environment
+dependencies:
+  - numpy
+  - psutil
+  - matplotlib
+  - pandas
