@@ -11,3 +11,4 @@ Preliminary processing code is available as a Jupyter notebook in the /processor
 The jupyter notebook can be found at:
 https://mybinder.org/v2/gh/wansco/HWDDDA/master
 
+https://mybinder.org/v2/gh/wansco/HWDDDA/master?filepath=processor%2Ftest%2Findex.ipynb
