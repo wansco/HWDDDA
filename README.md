@@ -12,3 +12,5 @@ The jupyter notebook can be found at:
 https://mybinder.org/v2/gh/wansco/HWDDDA/master
 
 https://mybinder.org/v2/gh/wansco/HWDDDA/master?filepath=processor%2Ftest%2Findex.ipynb
+
+The notebook may take a bit to load and does not save changes back to this repository. Please clone and submit pull requests, or email me directly with changes.
